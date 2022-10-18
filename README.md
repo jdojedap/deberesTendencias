@@ -16,3 +16,6 @@ informes semanales para tendencias tecnologicas
 8. Revisar el contenedor que esta corriendo con comando "docker ps"
 <img src="1.JPG" />
 
+![image](https://user-images.githubusercontent.com/91167333/196312103-7cc4702f-1927-4eaa-a60a-7ef3a2203885.png)
+
+
