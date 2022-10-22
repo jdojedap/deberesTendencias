@@ -5,7 +5,7 @@ informes semanales para tendencias tecnologicas
 
 <img src="crear cuenta.JPG" />
 
-2. Iniciar play with docker desde el navegador e iniciar sesion
+<h2>2. Iniciar play with docker desde el navegador e iniciar sesion</h2>
 
 ![image](https://user-images.githubusercontent.com/91167333/195993050-60cf5b17-adec-4373-8e8d-80255af69a62.png)
 
