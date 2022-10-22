@@ -1,5 +1,5 @@
-# deberesTendencias
-informes semanales para tendencias tecnologicas
+<h1># deberesTendencias</h1>
+<h1>informes semanales para tendencias tecnologicas</h1>
 
 <h2>1.Crear una cuenta en Docker Hub</h2>
 
