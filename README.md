@@ -45,7 +45,7 @@ informes semanales para tendencias tecnologicas
 16.Ingresamos el puerto utilizado en el contenedor
 
 ![image](https://user-images.githubusercontent.com/91167333/197315602-f7edba1c-39ac-4856-afeb-3138e9a49bd0.png)
-
+17. Se puede observar que la pagina web se cargo correctamente y se visualiza el html anteriormente cargado desde github 
 ![image](https://user-images.githubusercontent.com/91167333/197315624-6dd4f180-431e-41f6-aac7-a8d365c80d4a.png)
 
 
